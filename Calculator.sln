@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator\Calculator.vcxproj", "{920D25F3-DF5F-47A1-9030-0BFB902063E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer Calculator", "Installer Calculator\Installer Calculator.vdproj", "{09AF4A26-F6E6-45DF-9F75-968A503CAA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Debug|x64.ActiveCfg = Debug|x64
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Debug|x64.Build.0 = Debug|x64
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Debug|x86.Build.0 = Debug|Win32
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Release|x64.ActiveCfg = Release|x64
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Release|x64.Build.0 = Release|x64
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Release|x86.ActiveCfg = Release|Win32
+		{920D25F3-DF5F-47A1-9030-0BFB902063E7}.Release|x86.Build.0 = Release|Win32
+		{09AF4A26-F6E6-45DF-9F75-968A503CAA1E}.Debug|x64.ActiveCfg = Debug
+		{09AF4A26-F6E6-45DF-9F75-968A503CAA1E}.Debug|x86.ActiveCfg = Debug
+		{09AF4A26-F6E6-45DF-9F75-968A503CAA1E}.Release|x64.ActiveCfg = Release
+		{09AF4A26-F6E6-45DF-9F75-968A503CAA1E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B282326-990F-4FFD-8B1F-F7FE36629B9B}
+	EndGlobalSection
+EndGlobal
